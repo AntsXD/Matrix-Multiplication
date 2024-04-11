@@ -1,0 +1,6 @@
+﻿  module.cpp
+C:\Users\User\Source\Repos\Projects\CppMatMult\module.cpp(9,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Source\Repos\Projects\CppMatMult\module.cpp(10,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Source\Repos\Projects\CppMatMult\module.cpp(11,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Source\Repos\Projects\CppMatMult\module.cpp(12,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CppMatMult.vcxproj -> C:\Users\User\Source\Repos\Projects\MatMult\x64\Debug\CppMatMult.pyd
